@@ -1,36 +1,37 @@
-<h1 align="center">Fala aí 👋, eu sou João Gabriel</h1>
+<h1 align="center">👋 Olá, eu sou João Gabriel</h1>
 
 <p align="center">
-💻 Estudante de Engenharia <br>
-🎮 Desenvolvedor de jogos (LibGDX) <br>
-⚡ Interessado em sistemas e backend
+🎓 Técnico em Informática pelo CEFET-MG <br>
+💻 Estagiário em Desenvolvimento Back-End <br>
+🚀 Focado em backend, qualidade de código e otimização
 </p>
 
 ---
 
-## 🚀 Tecnologias que uso
-<p>
-  <img src="https://skillicons.dev/icons?i=java,postgres,git" />
+## 🧠 Tecnologias e Stack Atual
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,git" />
 </p>
 
 ---
 
-## 📊 Estatísticas
+## 📚 Outras Tecnologias e Bagagem Acadêmica
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,bootstrap,php" />
+</p>
+
+---
+
+## 🛠️ Ferramentas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,postman,git" />
+</p>
+
+---
+
+## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoGabrielCN&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabrielCN&layout=compact&theme=tokyonight"/>
 </p>
-
----
-
-## 🔥 Projetos em destaque
-- 🎮 Jogo estilo Castlevania (LibGDX)
-- ⚡ Sistema de análise elétrica
-- 📊 Automação de cálculos técnicos
-
----
-
-## 📫 Contato
-- LinkedIn: (coloque aqui)
-- Email: (coloque aqui)
