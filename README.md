@@ -6,28 +6,25 @@
 🚀 Focado em backend, qualidade de código e otimização
 </p>
 
----
 
 ## 🧠 Tecnologias e Stack Atual
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,git" />
 </p>
 
----
 
 ## 📚 Outras Tecnologias e Bagagem Acadêmica
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,bootstrap,php" />
 </p>
 
----
+
 
 ## 🛠️ Ferramentas
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,postman,git" />
 </p>
 
----
 
 ## 📊 Estatísticas GitHub
 
